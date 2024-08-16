@@ -1,0 +1,17 @@
+@import url("https://uilight.netlify.app/main.css");
+.search-box-input{
+    width: 18rem;
+    padding-left: 2rem;
+    font-size: 1rem;
+    border: none;
+    border-bottom: 1px solid var(--primary-color);
+    height: 3rem;
+}
+.search-box-input:focus{
+    outline: none;
+}
+.list-item-inline{
+    height: 3rem;
+    font-weight: 400;
+    font-size: 20px;
+}
